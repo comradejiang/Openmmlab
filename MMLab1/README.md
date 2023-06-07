@@ -1,0 +1,2 @@
+# MMLab_Homework_1
+将json文件中类的名称改为了和rtmdet_tiny_ear.py一致的类名
